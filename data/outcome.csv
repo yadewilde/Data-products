@@ -1,0 +1,385 @@
+"","Indicator","Measure","Date","Operator","Service","Value"
+"1","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Proximus","Fixed telephony",10
+"2","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Proximus","Fixed telephony",15
+"3","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Proximus","Fixed telephony",20
+"4","delai de fourniture ","% faits a la duree convenue","2014-12-31","Proximus","Fixed telephony",0.75
+"5","taux de pannes","nombre de pannes par ligne","2014-12-31","Proximus","Fixed telephony",0.14
+"6","delai de reparation","80% les plus rapidement reparees","2014-12-31","Proximus","Fixed telephony",3
+"7","delai de reparation","95% les plus rapidement reparees","2014-12-31","Proximus","Fixed telephony",5
+"8","delai de reparation","% a la duree convenue","2014-12-31","Proximus","Fixed telephony",0.72
+"9","temps de reponse","temps de reponse moyen","2014-12-31","Proximus","N/A",200
+"10","temps de reponse","% appels en 20 secondes","2014-12-31","Proximus","N/A",11
+"11","plaintes - facturation ","% de factures","2014-12-31","Proximus","N/A",12
+"12","plaintes - vitesse","% de lignes","2014-12-31","Proximus","Internet access",15
+"13","taux de couverture","% de menages - 2G","2014-12-31","Proximus","Mobile telephony",97
+"14","taux de couverture","% de menages - 3G","2014-12-31","Proximus","Mobile telephony",90
+"15","taux de couverture","% de menages - 4G","2014-12-31","Proximus","Mobile telephony",85
+"16","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Telenet","Fixed telephony",9
+"17","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Telenet","Fixed telephony",14
+"18","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Telenet","Fixed telephony",14
+"19","delai de fourniture ","% faits a la duree convenue","2014-12-31","Telenet","Fixed telephony",0.68
+"20","taux de pannes","nombre de pannes par ligne","2014-12-31","Telenet","Fixed telephony",0.18
+"21","delai de reparation","80% les plus rapidement reparees","2014-12-31","Telenet","Fixed telephony",2
+"22","delai de reparation","95% les plus rapidement reparees","2014-12-31","Telenet","Fixed telephony",4
+"23","delai de reparation","% a la duree convenue","2014-12-31","Telenet","Fixed telephony",0.65
+"24","temps de reponse","temps de reponse moyen","2014-12-31","Telenet","N/A",157
+"25","temps de reponse","% appels en 20 secondes","2014-12-31","Telenet","N/A",21
+"26","plaintes - facturation ","% de factures","2014-12-31","Telenet","N/A",10
+"27","plaintes - vitesse","% de lignes","2014-12-31","Telenet","Internet access",10
+"28","taux de couverture","% de menages - 2G","2014-12-31","Telenet","Mobile telephony",75
+"29","taux de couverture","% de menages - 3G","2014-12-31","Telenet","Mobile telephony",81
+"30","taux de couverture","% de menages - 4G","2014-12-31","Telenet","Mobile telephony",75
+"31","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Voo","Fixed telephony",19
+"32","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Voo","Fixed telephony",25
+"33","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Voo","Fixed telephony",30
+"34","delai de fourniture ","% faits a la duree convenue","2014-12-31","Voo","Fixed telephony",0.85
+"35","taux de pannes","nombre de pannes par ligne","2014-12-31","Voo","Fixed telephony",0.19
+"36","delai de reparation","80% les plus rapidement reparees","2014-12-31","Voo","Fixed telephony",3
+"37","delai de reparation","95% les plus rapidement reparees","2014-12-31","Voo","Fixed telephony",9
+"38","delai de reparation","% a la duree convenue","2014-12-31","Voo","Fixed telephony",0.85
+"39","temps de reponse","temps de reponse moyen","2014-12-31","Voo","N/A",150
+"40","temps de reponse","% appels en 20 secondes","2014-12-31","Voo","N/A",24
+"41","plaintes - facturation ","% de factures","2014-12-31","Voo","N/A",9
+"42","plaintes - vitesse","% de lignes","2014-12-31","Voo","Internet access",95
+"43","taux de couverture","% de menages - 2G","2014-12-31","Voo","Mobile telephony",86
+"44","taux de couverture","% de menages - 3G","2014-12-31","Voo","Mobile telephony",90
+"45","taux de couverture","% de menages - 4G","2014-12-31","Voo","Mobile telephony",95
+"46","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Numericable","Fixed telephony",5
+"47","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Numericable","Fixed telephony",13
+"48","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Numericable","Fixed telephony",16
+"49","delai de fourniture ","% faits a la duree convenue","2014-12-31","Numericable","Fixed telephony",0.78
+"50","taux de pannes","nombre de pannes par ligne","2014-12-31","Numericable","Fixed telephony",0.08
+"51","delai de reparation","80% les plus rapidement reparees","2014-12-31","Numericable","Fixed telephony",4
+"52","delai de reparation","95% les plus rapidement reparees","2014-12-31","Numericable","Fixed telephony",11
+"53","delai de reparation","% a la duree convenue","2014-12-31","Numericable","Fixed telephony",0.75
+"54","temps de reponse","temps de reponse moyen","2014-12-31","Numericable","N/A",350
+"55","temps de reponse","% appels en 20 secondes","2014-12-31","Numericable","N/A",41
+"56","plaintes - facturation ","% de factures","2014-12-31","Numericable","N/A",15
+"57","plaintes - vitesse","% de lignes","2014-12-31","Numericable","Internet access",50
+"58","taux de couverture","% de menages - 2G","2014-12-31","Numericable","Mobile telephony",79
+"59","taux de couverture","% de menages - 3G","2014-12-31","Numericable","Mobile telephony",84
+"60","taux de couverture","% de menages - 4G","2014-12-31","Numericable","Mobile telephony",45
+"61","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Proximus","Internet access",10
+"62","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Proximus","Internet access",15
+"63","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Proximus","Internet access",20
+"64","delai de fourniture ","% faits a la duree convenue","2014-12-31","Proximus","Internet access",0.75
+"65","taux de pannes","nombre de pannes par ligne","2014-12-31","Proximus","Internet access",0.14
+"66","delai de reparation","80% les plus rapidement reparees","2014-12-31","Proximus","Internet access",3
+"67","delai de reparation","95% les plus rapidement reparees","2014-12-31","Proximus","Internet access",5
+"68","delai de reparation","% a la duree convenue","2014-12-31","Proximus","Internet access",0.72
+"69","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Telenet","Internet access",9
+"70","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Telenet","Internet access",14
+"71","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Telenet","Internet access",14
+"72","delai de fourniture ","% faits a la duree convenue","2014-12-31","Telenet","Internet access",0.68
+"73","taux de pannes","nombre de pannes par ligne","2014-12-31","Telenet","Internet access",0.18
+"74","delai de reparation","80% les plus rapidement reparees","2014-12-31","Telenet","Internet access",2
+"75","delai de reparation","95% les plus rapidement reparees","2014-12-31","Telenet","Internet access",4
+"76","delai de reparation","% a la duree convenue","2014-12-31","Telenet","Internet access",0.65
+"77","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Voo","Internet access",19
+"78","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Voo","Internet access",25
+"79","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Voo","Internet access",30
+"80","delai de fourniture ","% faits a la duree convenue","2014-12-31","Voo","Internet access",0.85
+"81","taux de pannes","nombre de pannes par ligne","2014-12-31","Voo","Internet access",0.19
+"82","delai de reparation","80% les plus rapidement reparees","2014-12-31","Voo","Internet access",3
+"83","delai de reparation","95% les plus rapidement reparees","2014-12-31","Voo","Internet access",9
+"84","delai de reparation","% a la duree convenue","2014-12-31","Voo","Internet access",0.85
+"85","delai de fourniture ","50% les plus rapidement fournis","2014-12-31","Numericable","Internet access",5
+"86","delai de fourniture ","95% les plus rapidement fournis","2014-12-31","Numericable","Internet access",13
+"87","delai de fourniture ","99% les plus rapidement fournis","2014-12-31","Numericable","Internet access",16
+"88","delai de fourniture ","% faits a la duree convenue","2014-12-31","Numericable","Internet access",0.78
+"89","taux de pannes","nombre de pannes par ligne","2014-12-31","Numericable","Internet access",0.08
+"90","delai de reparation","80% les plus rapidement reparees","2014-12-31","Numericable","Internet access",4
+"91","delai de reparation","95% les plus rapidement reparees","2014-12-31","Numericable","Internet access",11
+"92","delai de reparation","% a la duree convenue","2014-12-31","Numericable","Internet access",0.75
+"93","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Proximus","Fixed telephony",8.58
+"94","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Proximus","Fixed telephony",12.87
+"95","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Proximus","Fixed telephony",17.16
+"96","delai de fourniture ","% faits a la duree convenue","2015-03-30","Proximus","Fixed telephony",0.6435
+"97","taux de pannes","nombre de pannes par ligne","2015-03-30","Proximus","Fixed telephony",0.12012
+"98","delai de reparation","80% les plus rapidement reparees","2015-03-30","Proximus","Fixed telephony",2.574
+"99","delai de reparation","95% les plus rapidement reparees","2015-03-30","Proximus","Fixed telephony",4.29
+"100","delai de reparation","% a la duree convenue","2015-03-30","Proximus","Fixed telephony",0.61776
+"101","temps de reponse","temps de reponse moyen","2015-03-30","Proximus","N/A",171.6
+"102","temps de reponse","% appels en 20 secondes","2015-03-30","Proximus","N/A",9.438
+"103","plaintes - facturation ","% de factures","2015-03-30","Proximus","N/A",10.296
+"104","plaintes - vitesse","% de lignes","2015-03-30","Proximus","Internet access",12.87
+"105","taux de couverture","% de menages - 2G","2015-03-30","Proximus","Mobile telephony",83.226
+"106","taux de couverture","% de menages - 3G","2015-03-30","Proximus","Mobile telephony",77.22
+"107","taux de couverture","% de menages - 4G","2015-03-30","Proximus","Mobile telephony",72.93
+"108","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Telenet","Fixed telephony",7.722
+"109","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Telenet","Fixed telephony",12.012
+"110","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Telenet","Fixed telephony",12.012
+"111","delai de fourniture ","% faits a la duree convenue","2015-03-30","Telenet","Fixed telephony",0.58344
+"112","taux de pannes","nombre de pannes par ligne","2015-03-30","Telenet","Fixed telephony",0.15444
+"113","delai de reparation","80% les plus rapidement reparees","2015-03-30","Telenet","Fixed telephony",1.716
+"114","delai de reparation","95% les plus rapidement reparees","2015-03-30","Telenet","Fixed telephony",3.432
+"115","delai de reparation","% a la duree convenue","2015-03-30","Telenet","Fixed telephony",0.5577
+"116","temps de reponse","temps de reponse moyen","2015-03-30","Telenet","N/A",134.706
+"117","temps de reponse","% appels en 20 secondes","2015-03-30","Telenet","N/A",18.018
+"118","plaintes - facturation ","% de factures","2015-03-30","Telenet","N/A",8.58
+"119","plaintes - vitesse","% de lignes","2015-03-30","Telenet","Internet access",8.58
+"120","taux de couverture","% de menages - 2G","2015-03-30","Telenet","Mobile telephony",64.35
+"121","taux de couverture","% de menages - 3G","2015-03-30","Telenet","Mobile telephony",69.498
+"122","taux de couverture","% de menages - 4G","2015-03-30","Telenet","Mobile telephony",64.35
+"123","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Voo","Fixed telephony",16.302
+"124","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Voo","Fixed telephony",21.45
+"125","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Voo","Fixed telephony",25.74
+"126","delai de fourniture ","% faits a la duree convenue","2015-03-30","Voo","Fixed telephony",0.7293
+"127","taux de pannes","nombre de pannes par ligne","2015-03-30","Voo","Fixed telephony",0.16302
+"128","delai de reparation","80% les plus rapidement reparees","2015-03-30","Voo","Fixed telephony",2.574
+"129","delai de reparation","95% les plus rapidement reparees","2015-03-30","Voo","Fixed telephony",7.722
+"130","delai de reparation","% a la duree convenue","2015-03-30","Voo","Fixed telephony",0.7293
+"131","temps de reponse","temps de reponse moyen","2015-03-30","Voo","N/A",128.7
+"132","temps de reponse","% appels en 20 secondes","2015-03-30","Voo","N/A",20.592
+"133","plaintes - facturation ","% de factures","2015-03-30","Voo","N/A",7.722
+"134","plaintes - vitesse","% de lignes","2015-03-30","Voo","Internet access",81.51
+"135","taux de couverture","% de menages - 2G","2015-03-30","Voo","Mobile telephony",73.788
+"136","taux de couverture","% de menages - 3G","2015-03-30","Voo","Mobile telephony",77.22
+"137","taux de couverture","% de menages - 4G","2015-03-30","Voo","Mobile telephony",81.51
+"138","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Numericable","Fixed telephony",4.29
+"139","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Numericable","Fixed telephony",11.154
+"140","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Numericable","Fixed telephony",13.728
+"141","delai de fourniture ","% faits a la duree convenue","2015-03-30","Numericable","Fixed telephony",0.66924
+"142","taux de pannes","nombre de pannes par ligne","2015-03-30","Numericable","Fixed telephony",0.06864
+"143","delai de reparation","80% les plus rapidement reparees","2015-03-30","Numericable","Fixed telephony",3.432
+"144","delai de reparation","95% les plus rapidement reparees","2015-03-30","Numericable","Fixed telephony",9.438
+"145","delai de reparation","% a la duree convenue","2015-03-30","Numericable","Fixed telephony",0.6435
+"146","temps de reponse","temps de reponse moyen","2015-03-30","Numericable","N/A",300.3
+"147","temps de reponse","% appels en 20 secondes","2015-03-30","Numericable","N/A",35.178
+"148","plaintes - facturation ","% de factures","2015-03-30","Numericable","N/A",12.87
+"149","plaintes - vitesse","% de lignes","2015-03-30","Numericable","Internet access",42.9
+"150","taux de couverture","% de menages - 2G","2015-03-30","Numericable","Mobile telephony",67.782
+"151","taux de couverture","% de menages - 3G","2015-03-30","Numericable","Mobile telephony",72.072
+"152","taux de couverture","% de menages - 4G","2015-03-30","Numericable","Mobile telephony",38.61
+"153","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Proximus","Internet access",8.58
+"154","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Proximus","Internet access",12.87
+"155","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Proximus","Internet access",17.16
+"156","delai de fourniture ","% faits a la duree convenue","2015-03-30","Proximus","Internet access",0.6435
+"157","taux de pannes","nombre de pannes par ligne","2015-03-30","Proximus","Internet access",0.12012
+"158","delai de reparation","80% les plus rapidement reparees","2015-03-30","Proximus","Internet access",2.574
+"159","delai de reparation","95% les plus rapidement reparees","2015-03-30","Proximus","Internet access",4.29
+"160","delai de reparation","% a la duree convenue","2015-03-30","Proximus","Internet access",0.61776
+"161","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Telenet","Internet access",7.722
+"162","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Telenet","Internet access",12.012
+"163","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Telenet","Internet access",12.012
+"164","delai de fourniture ","% faits a la duree convenue","2015-03-30","Telenet","Internet access",0.58344
+"165","taux de pannes","nombre de pannes par ligne","2015-03-30","Telenet","Internet access",0.15444
+"166","delai de reparation","80% les plus rapidement reparees","2015-03-30","Telenet","Internet access",1.716
+"167","delai de reparation","95% les plus rapidement reparees","2015-03-30","Telenet","Internet access",3.432
+"168","delai de reparation","% a la duree convenue","2015-03-30","Telenet","Internet access",0.5577
+"169","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Voo","Internet access",16.302
+"170","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Voo","Internet access",21.45
+"171","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Voo","Internet access",25.74
+"172","delai de fourniture ","% faits a la duree convenue","2015-03-30","Voo","Internet access",0.7293
+"173","taux de pannes","nombre de pannes par ligne","2015-03-30","Voo","Internet access",0.16302
+"174","delai de reparation","80% les plus rapidement reparees","2015-03-30","Voo","Internet access",2.574
+"175","delai de reparation","95% les plus rapidement reparees","2015-03-30","Voo","Internet access",7.722
+"176","delai de reparation","% a la duree convenue","2015-03-30","Voo","Internet access",0.7293
+"177","delai de fourniture ","50% les plus rapidement fournis","2015-03-30","Numericable","Internet access",4.29
+"178","delai de fourniture ","95% les plus rapidement fournis","2015-03-30","Numericable","Internet access",11.154
+"179","delai de fourniture ","99% les plus rapidement fournis","2015-03-30","Numericable","Internet access",13.728
+"180","delai de fourniture ","% faits a la duree convenue","2015-03-30","Numericable","Internet access",0.66924
+"181","taux de pannes","nombre de pannes par ligne","2015-03-30","Numericable","Internet access",0.06864
+"182","delai de reparation","80% les plus rapidement reparees","2015-03-30","Numericable","Internet access",3.432
+"183","delai de reparation","95% les plus rapidement reparees","2015-03-30","Numericable","Internet access",9.438
+"184","delai de reparation","% a la duree convenue","2015-03-30","Numericable","Internet access",0.6435
+"185","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Proximus","Fixed telephony",7.21578
+"186","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Proximus","Fixed telephony",10.82367
+"187","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Proximus","Fixed telephony",14.43156
+"188","delai de fourniture ","% faits a la duree convenue","2015-06-30","Proximus","Fixed telephony",0.5411835
+"189","taux de pannes","nombre de pannes par ligne","2015-06-30","Proximus","Fixed telephony",0.10102092
+"190","delai de reparation","80% les plus rapidement reparees","2015-06-30","Proximus","Fixed telephony",2.164734
+"191","delai de reparation","95% les plus rapidement reparees","2015-06-30","Proximus","Fixed telephony",3.60789
+"192","delai de reparation","% a la duree convenue","2015-06-30","Proximus","Fixed telephony",0.51953616
+"193","temps de reponse","temps de reponse moyen","2015-06-30","Proximus","N/A",144.3156
+"194","temps de reponse","% appels en 20 secondes","2015-06-30","Proximus","N/A",7.937358
+"195","plaintes - facturation ","% de factures","2015-06-30","Proximus","N/A",8.658936
+"196","plaintes - vitesse","% de lignes","2015-06-30","Proximus","Internet access",10.82367
+"197","taux de couverture","% de menages - 2G","2015-06-30","Proximus","Mobile telephony",69.993066
+"198","taux de couverture","% de menages - 3G","2015-06-30","Proximus","Mobile telephony",64.94202
+"199","taux de couverture","% de menages - 4G","2015-06-30","Proximus","Mobile telephony",61.33413
+"200","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Telenet","Fixed telephony",6.494202
+"201","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Telenet","Fixed telephony",10.102092
+"202","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Telenet","Fixed telephony",10.102092
+"203","delai de fourniture ","% faits a la duree convenue","2015-06-30","Telenet","Fixed telephony",0.49067304
+"204","taux de pannes","nombre de pannes par ligne","2015-06-30","Telenet","Fixed telephony",0.12988404
+"205","delai de reparation","80% les plus rapidement reparees","2015-06-30","Telenet","Fixed telephony",1.443156
+"206","delai de reparation","95% les plus rapidement reparees","2015-06-30","Telenet","Fixed telephony",2.886312
+"207","delai de reparation","% a la duree convenue","2015-06-30","Telenet","Fixed telephony",0.4690257
+"208","temps de reponse","temps de reponse moyen","2015-06-30","Telenet","N/A",113.287746
+"209","temps de reponse","% appels en 20 secondes","2015-06-30","Telenet","N/A",15.153138
+"210","plaintes - facturation ","% de factures","2015-06-30","Telenet","N/A",7.21578
+"211","plaintes - vitesse","% de lignes","2015-06-30","Telenet","Internet access",7.21578
+"212","taux de couverture","% de menages - 2G","2015-06-30","Telenet","Mobile telephony",54.11835
+"213","taux de couverture","% de menages - 3G","2015-06-30","Telenet","Mobile telephony",58.447818
+"214","taux de couverture","% de menages - 4G","2015-06-30","Telenet","Mobile telephony",54.11835
+"215","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Voo","Fixed telephony",13.709982
+"216","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Voo","Fixed telephony",18.03945
+"217","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Voo","Fixed telephony",21.64734
+"218","delai de fourniture ","% faits a la duree convenue","2015-06-30","Voo","Fixed telephony",0.6133413
+"219","taux de pannes","nombre de pannes par ligne","2015-06-30","Voo","Fixed telephony",0.13709982
+"220","delai de reparation","80% les plus rapidement reparees","2015-06-30","Voo","Fixed telephony",2.164734
+"221","delai de reparation","95% les plus rapidement reparees","2015-06-30","Voo","Fixed telephony",6.494202
+"222","delai de reparation","% a la duree convenue","2015-06-30","Voo","Fixed telephony",0.6133413
+"223","temps de reponse","temps de reponse moyen","2015-06-30","Voo","N/A",108.2367
+"224","temps de reponse","% appels en 20 secondes","2015-06-30","Voo","N/A",17.317872
+"225","plaintes - facturation ","% de factures","2015-06-30","Voo","N/A",6.494202
+"226","plaintes - vitesse","% de lignes","2015-06-30","Voo","Internet access",68.54991
+"227","taux de couverture","% de menages - 2G","2015-06-30","Voo","Mobile telephony",62.055708
+"228","taux de couverture","% de menages - 3G","2015-06-30","Voo","Mobile telephony",64.94202
+"229","taux de couverture","% de menages - 4G","2015-06-30","Voo","Mobile telephony",68.54991
+"230","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Numericable","Fixed telephony",3.60789
+"231","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Numericable","Fixed telephony",9.380514
+"232","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Numericable","Fixed telephony",11.545248
+"233","delai de fourniture ","% faits a la duree convenue","2015-06-30","Numericable","Fixed telephony",0.56283084
+"234","taux de pannes","nombre de pannes par ligne","2015-06-30","Numericable","Fixed telephony",0.05772624
+"235","delai de reparation","80% les plus rapidement reparees","2015-06-30","Numericable","Fixed telephony",2.886312
+"236","delai de reparation","95% les plus rapidement reparees","2015-06-30","Numericable","Fixed telephony",7.937358
+"237","delai de reparation","% a la duree convenue","2015-06-30","Numericable","Fixed telephony",0.5411835
+"238","temps de reponse","temps de reponse moyen","2015-06-30","Numericable","N/A",252.5523
+"239","temps de reponse","% appels en 20 secondes","2015-06-30","Numericable","N/A",29.584698
+"240","plaintes - facturation ","% de factures","2015-06-30","Numericable","N/A",10.82367
+"241","plaintes - vitesse","% de lignes","2015-06-30","Numericable","Internet access",36.0789
+"242","taux de couverture","% de menages - 2G","2015-06-30","Numericable","Mobile telephony",57.004662
+"243","taux de couverture","% de menages - 3G","2015-06-30","Numericable","Mobile telephony",60.612552
+"244","taux de couverture","% de menages - 4G","2015-06-30","Numericable","Mobile telephony",32.47101
+"245","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Proximus","Internet access",7.21578
+"246","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Proximus","Internet access",10.82367
+"247","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Proximus","Internet access",14.43156
+"248","delai de fourniture ","% faits a la duree convenue","2015-06-30","Proximus","Internet access",0.5411835
+"249","taux de pannes","nombre de pannes par ligne","2015-06-30","Proximus","Internet access",0.10102092
+"250","delai de reparation","80% les plus rapidement reparees","2015-06-30","Proximus","Internet access",2.164734
+"251","delai de reparation","95% les plus rapidement reparees","2015-06-30","Proximus","Internet access",3.60789
+"252","delai de reparation","% a la duree convenue","2015-06-30","Proximus","Internet access",0.51953616
+"253","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Telenet","Internet access",6.494202
+"254","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Telenet","Internet access",10.102092
+"255","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Telenet","Internet access",10.102092
+"256","delai de fourniture ","% faits a la duree convenue","2015-06-30","Telenet","Internet access",0.49067304
+"257","taux de pannes","nombre de pannes par ligne","2015-06-30","Telenet","Internet access",0.12988404
+"258","delai de reparation","80% les plus rapidement reparees","2015-06-30","Telenet","Internet access",1.443156
+"259","delai de reparation","95% les plus rapidement reparees","2015-06-30","Telenet","Internet access",2.886312
+"260","delai de reparation","% a la duree convenue","2015-06-30","Telenet","Internet access",0.4690257
+"261","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Voo","Internet access",13.709982
+"262","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Voo","Internet access",18.03945
+"263","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Voo","Internet access",21.64734
+"264","delai de fourniture ","% faits a la duree convenue","2015-06-30","Voo","Internet access",0.6133413
+"265","taux de pannes","nombre de pannes par ligne","2015-06-30","Voo","Internet access",0.13709982
+"266","delai de reparation","80% les plus rapidement reparees","2015-06-30","Voo","Internet access",2.164734
+"267","delai de reparation","95% les plus rapidement reparees","2015-06-30","Voo","Internet access",6.494202
+"268","delai de reparation","% a la duree convenue","2015-06-30","Voo","Internet access",0.6133413
+"269","delai de fourniture ","50% les plus rapidement fournis","2015-06-30","Numericable","Internet access",3.60789
+"270","delai de fourniture ","95% les plus rapidement fournis","2015-06-30","Numericable","Internet access",9.380514
+"271","delai de fourniture ","99% les plus rapidement fournis","2015-06-30","Numericable","Internet access",11.545248
+"272","delai de fourniture ","% faits a la duree convenue","2015-06-30","Numericable","Internet access",0.56283084
+"273","taux de pannes","nombre de pannes par ligne","2015-06-30","Numericable","Internet access",0.05772624
+"274","delai de reparation","80% les plus rapidement reparees","2015-06-30","Numericable","Internet access",2.886312
+"275","delai de reparation","95% les plus rapidement reparees","2015-06-30","Numericable","Internet access",7.937358
+"276","delai de reparation","% a la duree convenue","2015-06-30","Numericable","Internet access",0.5411835
+"277","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Proximus","Fixed telephony",5.3396772
+"278","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Proximus","Fixed telephony",8.0095158
+"279","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Proximus","Fixed telephony",10.6793544
+"280","delai de fourniture ","% faits a la duree convenue","2015-09-30","Proximus","Fixed telephony",0.40047579
+"281","taux de pannes","nombre de pannes par ligne","2015-09-30","Proximus","Fixed telephony",0.0747554808
+"282","delai de reparation","80% les plus rapidement reparees","2015-09-30","Proximus","Fixed telephony",1.60190316
+"283","delai de reparation","95% les plus rapidement reparees","2015-09-30","Proximus","Fixed telephony",2.6698386
+"284","delai de reparation","% a la duree convenue","2015-09-30","Proximus","Fixed telephony",0.3844567584
+"285","temps de reponse","temps de reponse moyen","2015-09-30","Proximus","N/A",106.793544
+"286","temps de reponse","% appels en 20 secondes","2015-09-30","Proximus","N/A",5.87364492
+"287","plaintes - facturation ","% de factures","2015-09-30","Proximus","N/A",6.40761264
+"288","plaintes - vitesse","% de lignes","2015-09-30","Proximus","Internet access",8.0095158
+"289","taux de couverture","% de menages - 2G","2015-09-30","Proximus","Mobile telephony",51.79486884
+"290","taux de couverture","% de menages - 3G","2015-09-30","Proximus","Mobile telephony",48.0570948
+"291","taux de couverture","% de menages - 4G","2015-09-30","Proximus","Mobile telephony",45.3872562
+"292","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Telenet","Fixed telephony",4.80570948
+"293","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Telenet","Fixed telephony",7.47554808
+"294","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Telenet","Fixed telephony",7.47554808
+"295","delai de fourniture ","% faits a la duree convenue","2015-09-30","Telenet","Fixed telephony",0.3630980496
+"296","taux de pannes","nombre de pannes par ligne","2015-09-30","Telenet","Fixed telephony",0.0961141896
+"297","delai de reparation","80% les plus rapidement reparees","2015-09-30","Telenet","Fixed telephony",1.06793544
+"298","delai de reparation","95% les plus rapidement reparees","2015-09-30","Telenet","Fixed telephony",2.13587088
+"299","delai de reparation","% a la duree convenue","2015-09-30","Telenet","Fixed telephony",0.347079018
+"300","temps de reponse","temps de reponse moyen","2015-09-30","Telenet","N/A",83.83293204
+"301","temps de reponse","% appels en 20 secondes","2015-09-30","Telenet","N/A",11.21332212
+"302","plaintes - facturation ","% de factures","2015-09-30","Telenet","N/A",5.3396772
+"303","plaintes - vitesse","% de lignes","2015-09-30","Telenet","Internet access",5.3396772
+"304","taux de couverture","% de menages - 2G","2015-09-30","Telenet","Mobile telephony",40.047579
+"305","taux de couverture","% de menages - 3G","2015-09-30","Telenet","Mobile telephony",43.25138532
+"306","taux de couverture","% de menages - 4G","2015-09-30","Telenet","Mobile telephony",40.047579
+"307","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Voo","Fixed telephony",10.14538668
+"308","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Voo","Fixed telephony",13.349193
+"309","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Voo","Fixed telephony",16.0190316
+"310","delai de fourniture ","% faits a la duree convenue","2015-09-30","Voo","Fixed telephony",0.453872562
+"311","taux de pannes","nombre de pannes par ligne","2015-09-30","Voo","Fixed telephony",0.1014538668
+"312","delai de reparation","80% les plus rapidement reparees","2015-09-30","Voo","Fixed telephony",1.60190316
+"313","delai de reparation","95% les plus rapidement reparees","2015-09-30","Voo","Fixed telephony",4.80570948
+"314","delai de reparation","% a la duree convenue","2015-09-30","Voo","Fixed telephony",0.453872562
+"315","temps de reponse","temps de reponse moyen","2015-09-30","Voo","N/A",80.095158
+"316","temps de reponse","% appels en 20 secondes","2015-09-30","Voo","N/A",12.81522528
+"317","plaintes - facturation ","% de factures","2015-09-30","Voo","N/A",4.80570948
+"318","plaintes - vitesse","% de lignes","2015-09-30","Voo","Internet access",50.7269334
+"319","taux de couverture","% de menages - 2G","2015-09-30","Voo","Mobile telephony",45.92122392
+"320","taux de couverture","% de menages - 3G","2015-09-30","Voo","Mobile telephony",48.0570948
+"321","taux de couverture","% de menages - 4G","2015-09-30","Voo","Mobile telephony",50.7269334
+"322","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Numericable","Fixed telephony",2.6698386
+"323","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Numericable","Fixed telephony",6.94158036
+"324","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Numericable","Fixed telephony",8.54348352
+"325","delai de fourniture ","% faits a la duree convenue","2015-09-30","Numericable","Fixed telephony",0.4164948216
+"326","taux de pannes","nombre de pannes par ligne","2015-09-30","Numericable","Fixed telephony",0.0427174176
+"327","delai de reparation","80% les plus rapidement reparees","2015-09-30","Numericable","Fixed telephony",2.13587088
+"328","delai de reparation","95% les plus rapidement reparees","2015-09-30","Numericable","Fixed telephony",5.87364492
+"329","delai de reparation","% a la duree convenue","2015-09-30","Numericable","Fixed telephony",0.40047579
+"330","temps de reponse","temps de reponse moyen","2015-09-30","Numericable","N/A",186.888702
+"331","temps de reponse","% appels en 20 secondes","2015-09-30","Numericable","N/A",21.89267652
+"332","plaintes - facturation ","% de factures","2015-09-30","Numericable","N/A",8.0095158
+"333","plaintes - vitesse","% de lignes","2015-09-30","Numericable","Internet access",26.698386
+"334","taux de couverture","% de menages - 2G","2015-09-30","Numericable","Mobile telephony",42.18344988
+"335","taux de couverture","% de menages - 3G","2015-09-30","Numericable","Mobile telephony",44.85328848
+"336","taux de couverture","% de menages - 4G","2015-09-30","Numericable","Mobile telephony",24.0285474
+"337","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Proximus","Internet access",5.3396772
+"338","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Proximus","Internet access",8.0095158
+"339","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Proximus","Internet access",10.6793544
+"340","delai de fourniture ","% faits a la duree convenue","2015-09-30","Proximus","Internet access",0.40047579
+"341","taux de pannes","nombre de pannes par ligne","2015-09-30","Proximus","Internet access",0.0747554808
+"342","delai de reparation","80% les plus rapidement reparees","2015-09-30","Proximus","Internet access",1.60190316
+"343","delai de reparation","95% les plus rapidement reparees","2015-09-30","Proximus","Internet access",2.6698386
+"344","delai de reparation","% a la duree convenue","2015-09-30","Proximus","Internet access",0.3844567584
+"345","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Telenet","Internet access",4.80570948
+"346","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Telenet","Internet access",7.47554808
+"347","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Telenet","Internet access",7.47554808
+"348","delai de fourniture ","% faits a la duree convenue","2015-09-30","Telenet","Internet access",0.3630980496
+"349","taux de pannes","nombre de pannes par ligne","2015-09-30","Telenet","Internet access",0.0961141896
+"350","delai de reparation","80% les plus rapidement reparees","2015-09-30","Telenet","Internet access",1.06793544
+"351","delai de reparation","95% les plus rapidement reparees","2015-09-30","Telenet","Internet access",2.13587088
+"352","delai de reparation","% a la duree convenue","2015-09-30","Telenet","Internet access",0.347079018
+"353","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Voo","Internet access",10.14538668
+"354","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Voo","Internet access",13.349193
+"355","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Voo","Internet access",16.0190316
+"356","delai de fourniture ","% faits a la duree convenue","2015-09-30","Voo","Internet access",0.453872562
+"357","taux de pannes","nombre de pannes par ligne","2015-09-30","Voo","Internet access",0.1014538668
+"358","delai de reparation","80% les plus rapidement reparees","2015-09-30","Voo","Internet access",1.60190316
+"359","delai de reparation","95% les plus rapidement reparees","2015-09-30","Voo","Internet access",4.80570948
+"360","delai de reparation","% a la duree convenue","2015-09-30","Voo","Internet access",0.453872562
+"361","delai de fourniture ","50% les plus rapidement fournis","2015-09-30","Numericable","Internet access",2.6698386
+"362","delai de fourniture ","95% les plus rapidement fournis","2015-09-30","Numericable","Internet access",6.94158036
+"363","delai de fourniture ","99% les plus rapidement fournis","2015-09-30","Numericable","Internet access",8.54348352
+"364","delai de fourniture ","% faits a la duree convenue","2015-09-30","Numericable","Internet access",0.4164948216
+"365","taux de pannes","nombre de pannes par ligne","2015-09-30","Numericable","Internet access",0.0427174176
+"366","delai de reparation","80% les plus rapidement reparees","2015-09-30","Numericable","Internet access",2.13587088
+"367","delai de reparation","95% les plus rapidement reparees","2015-09-30","Numericable","Internet access",5.87364492
+"368","delai de reparation","% a la duree convenue","2015-09-30","Numericable","Internet access",0.40047579
+"1210","plaintes - vitesse","% de lignes","2014-12-31","Proximus","Mobile telephony",15
+"2710","plaintes - vitesse","% de lignes","2014-12-31","Telenet","Mobile telephony",10
+"421","plaintes - vitesse","% de lignes","2014-12-31","Voo","Mobile telephony",95
+"571","plaintes - vitesse","% de lignes","2014-12-31","Numericable","Mobile telephony",50
+"1041","plaintes - vitesse","% de lignes","2015-03-30","Proximus","Mobile telephony",12.87
+"1191","plaintes - vitesse","% de lignes","2015-03-30","Telenet","Mobile telephony",8.58
+"1341","plaintes - vitesse","% de lignes","2015-03-30","Voo","Mobile telephony",81.51
+"1491","plaintes - vitesse","% de lignes","2015-03-30","Numericable","Mobile telephony",42.9
+"1961","plaintes - vitesse","% de lignes","2015-06-30","Proximus","Mobile telephony",10.82367
+"2111","plaintes - vitesse","% de lignes","2015-06-30","Telenet","Mobile telephony",7.21578
+"2261","plaintes - vitesse","% de lignes","2015-06-30","Voo","Mobile telephony",68.54991
+"2411","plaintes - vitesse","% de lignes","2015-06-30","Numericable","Mobile telephony",36.0789
+"2881","plaintes - vitesse","% de lignes","2015-09-30","Proximus","Mobile telephony",8.0095158
+"3031","plaintes - vitesse","% de lignes","2015-09-30","Telenet","Mobile telephony",5.3396772
+"3181","plaintes - vitesse","% de lignes","2015-09-30","Voo","Mobile telephony",50.7269334
+"3331","plaintes - vitesse","% de lignes","2015-09-30","Numericable","Mobile telephony",26.698386

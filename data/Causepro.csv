@@ -1,0 +1,25 @@
+Year;Freq;Cause;Label
+2014;12;CauseAutre;Autre
+2013;6;CauseAutre;Autre
+2012;18;CauseAutre;Autre
+2014;10;CauseHausse;Hausse des tarifs
+2013;9;CauseHausse;Hausse des tarifs
+2012;16;CauseHausse;Hausse des tarifs
+2014;8;CauseAdministratif;Probléme administratif ou commercial
+2013;13;CauseAdministratif;Probléme administratif ou commercial
+2012;;CauseAdministratif;Probléme administratif ou commercial
+2014;23;CauseFact;Probléme de facturation 
+2013;29;CauseFact;Probléme de facturation 
+2012;27;CauseFact;Probléme de facturation 
+2014;74;CauseSature;Problème de qualité de service
+2013;20;CauseSature;Problème de qualité de service
+2012;;CauseSature;Problème de qualité de service
+2014;12;CauseProm;Promesse non réalisée, publicité mensongére
+2013;13;CauseProm;Promesse non réalisée, publicité mensongére
+2012;22;CauseProm;Promesse non réalisée, publicité mensongére
+2014;10;CauseRetard;Retard dans la fourniture du service
+2013;10;CauseRetard;Retard dans la fourniture du service
+2012;18;CauseRetard;Retard dans la fourniture du service
+2014;25;CauseCoupure;Service inactif, coupures, délai de réparation
+2013;81;CauseCoupure;Service inactif, coupures, délai de réparation
+2012;53;CauseCoupure;Service inactif, coupures, délai de réparation

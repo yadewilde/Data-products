@@ -1,0 +1,385 @@
+;Indicator;Measure;Date;Operator;Service;Value
+1;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Proximus;Fixed telephony;10
+2;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Proximus;Fixed telephony;15
+3;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Proximus;Fixed telephony;20
+4;délai de fourniture ;% faits à la duree convenue;31/12/2014;Proximus;Fixed telephony;0.75
+5;taux de pannes;nombre de pannes par ligne;31/12/2014;Proximus;Fixed telephony;0.14
+6;délai de réparation;80% les plus rapidement réparées;31/12/2014;Proximus;Fixed telephony;3
+7;délai de réparation;95% les plus rapidement réparées;31/12/2014;Proximus;Fixed telephony;5
+8;délai de réparation;% à la durée convenue;31/12/2014;Proximus;Fixed telephony;0.72
+9;temps de réponse;temps de réponse moyen;31/12/2014;Proximus;N/A;200
+10;temps de réponse;% appels en 20 secondes;31/12/2014;Proximus;N/A;11
+11;plaintes - facturation ;% de factures;31/12/2014;Proximus;N/A;12
+12;plaintes - vitesse;% de lignes;31/12/2014;Proximus;Internet access;15
+13;taux de couverture;% de ménages - 2G;31/12/2014;Proximus;Mobile telephony;97
+14;taux de couverture;% de ménages - 3G;31/12/2014;Proximus;Mobile telephony;90
+15;taux de couverture;% de ménages - 4G;31/12/2014;Proximus;Mobile telephony;85
+16;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Telenet;Fixed telephony;9
+17;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Telenet;Fixed telephony;14
+18;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Telenet;Fixed telephony;14
+19;délai de fourniture ;% faits à la duree convenue;31/12/2014;Telenet;Fixed telephony;0.68
+20;taux de pannes;nombre de pannes par ligne;31/12/2014;Telenet;Fixed telephony;0.18
+21;délai de réparation;80% les plus rapidement réparées;31/12/2014;Telenet;Fixed telephony;2
+22;délai de réparation;95% les plus rapidement réparées;31/12/2014;Telenet;Fixed telephony;4
+23;délai de réparation;% à la durée convenue;31/12/2014;Telenet;Fixed telephony;0.65
+24;temps de réponse;temps de réponse moyen;31/12/2014;Telenet;N/A;157
+25;temps de réponse;% appels en 20 secondes;31/12/2014;Telenet;N/A;21
+26;plaintes - facturation ;% de factures;31/12/2014;Telenet;N/A;10
+27;plaintes - vitesse;% de lignes;31/12/2014;Telenet;Internet access;10
+28;taux de couverture;% de ménages - 2G;31/12/2014;Telenet;Mobile telephony;75
+29;taux de couverture;% de ménages - 3G;31/12/2014;Telenet;Mobile telephony;81
+30;taux de couverture;% de ménages - 4G;31/12/2014;Telenet;Mobile telephony;75
+31;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Voo;Fixed telephony;19
+32;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Voo;Fixed telephony;25
+33;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Voo;Fixed telephony;30
+34;délai de fourniture ;% faits à la duree convenue;31/12/2014;Voo;Fixed telephony;0.85
+35;taux de pannes;nombre de pannes par ligne;31/12/2014;Voo;Fixed telephony;0.19
+36;délai de réparation;80% les plus rapidement réparées;31/12/2014;Voo;Fixed telephony;3
+37;délai de réparation;95% les plus rapidement réparées;31/12/2014;Voo;Fixed telephony;9
+38;délai de réparation;% à la durée convenue;31/12/2014;Voo;Fixed telephony;0.85
+39;temps de réponse;temps de réponse moyen;31/12/2014;Voo;N/A;150
+40;temps de réponse;% appels en 20 secondes;31/12/2014;Voo;N/A;24
+41;plaintes - facturation ;% de factures;31/12/2014;Voo;N/A;9
+42;plaintes - vitesse;% de lignes;31/12/2014;Voo;Internet access;95
+43;taux de couverture;% de ménages - 2G;31/12/2014;Voo;Mobile telephony;86
+44;taux de couverture;% de ménages - 3G;31/12/2014;Voo;Mobile telephony;90
+45;taux de couverture;% de ménages - 4G;31/12/2014;Voo;Mobile telephony;95
+46;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Numericable;Fixed telephony;5
+47;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Numericable;Fixed telephony;13
+48;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Numericable;Fixed telephony;16
+49;délai de fourniture ;% faits à la duree convenue;31/12/2014;Numericable;Fixed telephony;0.78
+50;taux de pannes;nombre de pannes par ligne;31/12/2014;Numericable;Fixed telephony;0.08
+51;délai de réparation;80% les plus rapidement réparées;31/12/2014;Numericable;Fixed telephony;4
+52;délai de réparation;95% les plus rapidement réparées;31/12/2014;Numericable;Fixed telephony;11
+53;délai de réparation;% à la durée convenue;31/12/2014;Numericable;Fixed telephony;0.75
+54;temps de réponse;temps de réponse moyen;31/12/2014;Numericable;N/A;350
+55;temps de réponse;% appels en 20 secondes;31/12/2014;Numericable;N/A;41
+56;plaintes - facturation ;% de factures;31/12/2014;Numericable;N/A;15
+57;plaintes - vitesse;% de lignes;31/12/2014;Numericable;Internet access;50
+58;taux de couverture;% de ménages - 2G;31/12/2014;Numericable;Mobile telephony;79
+59;taux de couverture;% de ménages - 3G;31/12/2014;Numericable;Mobile telephony;84
+60;taux de couverture;% de ménages - 4G;31/12/2014;Numericable;Mobile telephony;45
+61;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Proximus;Internet access;10
+62;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Proximus;Internet access;15
+63;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Proximus;Internet access;20
+64;délai de fourniture ;% faits à la duree convenue;31/12/2014;Proximus;Internet access;0.75
+65;taux de pannes;nombre de pannes par ligne;31/12/2014;Proximus;Internet access;0.14
+66;délai de réparation;80% les plus rapidement réparées;31/12/2014;Proximus;Internet access;3
+67;délai de réparation;95% les plus rapidement réparées;31/12/2014;Proximus;Internet access;5
+68;délai de réparation;% à la durée convenue;31/12/2014;Proximus;Internet access;0.72
+69;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Telenet;Internet access;9
+70;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Telenet;Internet access;14
+71;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Telenet;Internet access;14
+72;délai de fourniture ;% faits à la duree convenue;31/12/2014;Telenet;Internet access;0.68
+73;taux de pannes;nombre de pannes par ligne;31/12/2014;Telenet;Internet access;0.18
+74;délai de réparation;80% les plus rapidement réparées;31/12/2014;Telenet;Internet access;2
+75;délai de réparation;95% les plus rapidement réparées;31/12/2014;Telenet;Internet access;4
+76;délai de réparation;% à la durée convenue;31/12/2014;Telenet;Internet access;0.65
+77;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Voo;Internet access;19
+78;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Voo;Internet access;25
+79;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Voo;Internet access;30
+80;délai de fourniture ;% faits à la duree convenue;31/12/2014;Voo;Internet access;0.85
+81;taux de pannes;nombre de pannes par ligne;31/12/2014;Voo;Internet access;0.19
+82;délai de réparation;80% les plus rapidement réparées;31/12/2014;Voo;Internet access;3
+83;délai de réparation;95% les plus rapidement réparées;31/12/2014;Voo;Internet access;9
+84;délai de réparation;% à la durée convenue;31/12/2014;Voo;Internet access;0.85
+85;délai de fourniture ;50% les plus rapidement fournis;31/12/2014;Numericable;Internet access;5
+86;délai de fourniture ;95% les plus rapidement fournis;31/12/2014;Numericable;Internet access;13
+87;délai de fourniture ;99% les plus rapidement fournis;31/12/2014;Numericable;Internet access;16
+88;délai de fourniture ;% faits à la duree convenue;31/12/2014;Numericable;Internet access;0.78
+89;taux de pannes;nombre de pannes par ligne;31/12/2014;Numericable;Internet access;0.08
+90;délai de réparation;80% les plus rapidement réparées;31/12/2014;Numericable;Internet access;4
+91;délai de réparation;95% les plus rapidement réparées;31/12/2014;Numericable;Internet access;11
+92;délai de réparation;% à la durée convenue;31/12/2014;Numericable;Internet access;0.75
+93;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Proximus;Fixed telephony;8.58
+94;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Proximus;Fixed telephony;12.87
+95;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Proximus;Fixed telephony;17.16
+96;délai de fourniture ;% faits à la duree convenue;30/03/2015;Proximus;Fixed telephony;0.6435
+97;taux de pannes;nombre de pannes par ligne;30/03/2015;Proximus;Fixed telephony;0.12012
+98;délai de réparation;80% les plus rapidement réparées;30/03/2015;Proximus;Fixed telephony;2.574
+99;délai de réparation;95% les plus rapidement réparées;30/03/2015;Proximus;Fixed telephony;4.29
+100;délai de réparation;% à la durée convenue;30/03/2015;Proximus;Fixed telephony;0.61776
+101;temps de réponse;temps de réponse moyen;30/03/2015;Proximus;N/A;171.6
+102;temps de réponse;% appels en 20 secondes;30/03/2015;Proximus;N/A;9.438
+103;plaintes - facturation ;% de factures;30/03/2015;Proximus;N/A;10.296
+104;plaintes - vitesse;% de lignes;30/03/2015;Proximus;Internet access;12.87
+105;taux de couverture;% de ménages - 2G;30/03/2015;Proximus;Mobile telephony;83.226
+106;taux de couverture;% de ménages - 3G;30/03/2015;Proximus;Mobile telephony;77.22
+107;taux de couverture;% de ménages - 4G;30/03/2015;Proximus;Mobile telephony;72.93
+108;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Telenet;Fixed telephony;7.722
+109;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Telenet;Fixed telephony;12.012
+110;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Telenet;Fixed telephony;12.012
+111;délai de fourniture ;% faits à la duree convenue;30/03/2015;Telenet;Fixed telephony;0.58344
+112;taux de pannes;nombre de pannes par ligne;30/03/2015;Telenet;Fixed telephony;0.15444
+113;délai de réparation;80% les plus rapidement réparées;30/03/2015;Telenet;Fixed telephony;1.716
+114;délai de réparation;95% les plus rapidement réparées;30/03/2015;Telenet;Fixed telephony;3.432
+115;délai de réparation;% à la durée convenue;30/03/2015;Telenet;Fixed telephony;0.5577
+116;temps de réponse;temps de réponse moyen;30/03/2015;Telenet;N/A;134.706
+117;temps de réponse;% appels en 20 secondes;30/03/2015;Telenet;N/A;18.018
+118;plaintes - facturation ;% de factures;30/03/2015;Telenet;N/A;8.58
+119;plaintes - vitesse;% de lignes;30/03/2015;Telenet;Internet access;8.58
+120;taux de couverture;% de ménages - 2G;30/03/2015;Telenet;Mobile telephony;64.35
+121;taux de couverture;% de ménages - 3G;30/03/2015;Telenet;Mobile telephony;69.498
+122;taux de couverture;% de ménages - 4G;30/03/2015;Telenet;Mobile telephony;64.35
+123;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Voo;Fixed telephony;16.302
+124;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Voo;Fixed telephony;21.45
+125;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Voo;Fixed telephony;25.74
+126;délai de fourniture ;% faits à la duree convenue;30/03/2015;Voo;Fixed telephony;0.7293
+127;taux de pannes;nombre de pannes par ligne;30/03/2015;Voo;Fixed telephony;0.16302
+128;délai de réparation;80% les plus rapidement réparées;30/03/2015;Voo;Fixed telephony;2.574
+129;délai de réparation;95% les plus rapidement réparées;30/03/2015;Voo;Fixed telephony;7.722
+130;délai de réparation;% à la durée convenue;30/03/2015;Voo;Fixed telephony;0.7293
+131;temps de réponse;temps de réponse moyen;30/03/2015;Voo;N/A;128.7
+132;temps de réponse;% appels en 20 secondes;30/03/2015;Voo;N/A;20.592
+133;plaintes - facturation ;% de factures;30/03/2015;Voo;N/A;7.722
+134;plaintes - vitesse;% de lignes;30/03/2015;Voo;Internet access;81.51
+135;taux de couverture;% de ménages - 2G;30/03/2015;Voo;Mobile telephony;73.788
+136;taux de couverture;% de ménages - 3G;30/03/2015;Voo;Mobile telephony;77.22
+137;taux de couverture;% de ménages - 4G;30/03/2015;Voo;Mobile telephony;81.51
+138;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Numericable;Fixed telephony;4.29
+139;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Numericable;Fixed telephony;11.154
+140;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Numericable;Fixed telephony;13.728
+141;délai de fourniture ;% faits à la duree convenue;30/03/2015;Numericable;Fixed telephony;0.66924
+142;taux de pannes;nombre de pannes par ligne;30/03/2015;Numericable;Fixed telephony;0.06864
+143;délai de réparation;80% les plus rapidement réparées;30/03/2015;Numericable;Fixed telephony;3.432
+144;délai de réparation;95% les plus rapidement réparées;30/03/2015;Numericable;Fixed telephony;9.438
+145;délai de réparation;% à la durée convenue;30/03/2015;Numericable;Fixed telephony;0.6435
+146;temps de réponse;temps de réponse moyen;30/03/2015;Numericable;N/A;300.3
+147;temps de réponse;% appels en 20 secondes;30/03/2015;Numericable;N/A;35.178
+148;plaintes - facturation ;% de factures;30/03/2015;Numericable;N/A;12.87
+149;plaintes - vitesse;% de lignes;30/03/2015;Numericable;Internet access;42.9
+150;taux de couverture;% de ménages - 2G;30/03/2015;Numericable;Mobile telephony;67.782
+151;taux de couverture;% de ménages - 3G;30/03/2015;Numericable;Mobile telephony;72.072
+152;taux de couverture;% de ménages - 4G;30/03/2015;Numericable;Mobile telephony;38.61
+153;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Proximus;Internet access;8.58
+154;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Proximus;Internet access;12.87
+155;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Proximus;Internet access;17.16
+156;délai de fourniture ;% faits à la duree convenue;30/03/2015;Proximus;Internet access;0.6435
+157;taux de pannes;nombre de pannes par ligne;30/03/2015;Proximus;Internet access;0.12012
+158;délai de réparation;80% les plus rapidement réparées;30/03/2015;Proximus;Internet access;2.574
+159;délai de réparation;95% les plus rapidement réparées;30/03/2015;Proximus;Internet access;4.29
+160;délai de réparation;% à la durée convenue;30/03/2015;Proximus;Internet access;0.61776
+161;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Telenet;Internet access;7.722
+162;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Telenet;Internet access;12.012
+163;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Telenet;Internet access;12.012
+164;délai de fourniture ;% faits à la duree convenue;30/03/2015;Telenet;Internet access;0.58344
+165;taux de pannes;nombre de pannes par ligne;30/03/2015;Telenet;Internet access;0.15444
+166;délai de réparation;80% les plus rapidement réparées;30/03/2015;Telenet;Internet access;1.716
+167;délai de réparation;95% les plus rapidement réparées;30/03/2015;Telenet;Internet access;3.432
+168;délai de réparation;% à la durée convenue;30/03/2015;Telenet;Internet access;0.5577
+169;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Voo;Internet access;16.302
+170;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Voo;Internet access;21.45
+171;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Voo;Internet access;25.74
+172;délai de fourniture ;% faits à la duree convenue;30/03/2015;Voo;Internet access;0.7293
+173;taux de pannes;nombre de pannes par ligne;30/03/2015;Voo;Internet access;0.16302
+174;délai de réparation;80% les plus rapidement réparées;30/03/2015;Voo;Internet access;2.574
+175;délai de réparation;95% les plus rapidement réparées;30/03/2015;Voo;Internet access;7.722
+176;délai de réparation;% à la durée convenue;30/03/2015;Voo;Internet access;0.7293
+177;délai de fourniture ;50% les plus rapidement fournis;30/03/2015;Numericable;Internet access;4.29
+178;délai de fourniture ;95% les plus rapidement fournis;30/03/2015;Numericable;Internet access;11.154
+179;délai de fourniture ;99% les plus rapidement fournis;30/03/2015;Numericable;Internet access;13.728
+180;délai de fourniture ;% faits à la duree convenue;30/03/2015;Numericable;Internet access;0.66924
+181;taux de pannes;nombre de pannes par ligne;30/03/2015;Numericable;Internet access;0.06864
+182;délai de réparation;80% les plus rapidement réparées;30/03/2015;Numericable;Internet access;3.432
+183;délai de réparation;95% les plus rapidement réparées;30/03/2015;Numericable;Internet access;9.438
+184;délai de réparation;% à la durée convenue;30/03/2015;Numericable;Internet access;0.6435
+185;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Proximus;Fixed telephony;721.578
+186;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Proximus;Fixed telephony;1.082.367
+187;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Proximus;Fixed telephony;1.443.156
+188;délai de fourniture ;% faits à la duree convenue;30/06/2015;Proximus;Fixed telephony;0.5411835
+189;taux de pannes;nombre de pannes par ligne;30/06/2015;Proximus;Fixed telephony;0.10102092
+190;délai de réparation;80% les plus rapidement réparées;30/06/2015;Proximus;Fixed telephony;2.164.734
+191;délai de réparation;95% les plus rapidement réparées;30/06/2015;Proximus;Fixed telephony;360.789
+192;délai de réparation;% à la durée convenue;30/06/2015;Proximus;Fixed telephony;0.51953616
+193;temps de réponse;temps de réponse moyen;30/06/2015;Proximus;N/A;1.443.156
+194;temps de réponse;% appels en 20 secondes;30/06/2015;Proximus;N/A;7.937.358
+195;plaintes - facturation ;% de factures;30/06/2015;Proximus;N/A;8.658.936
+196;plaintes - vitesse;% de lignes;30/06/2015;Proximus;Internet access;1.082.367
+197;taux de couverture;% de ménages - 2G;30/06/2015;Proximus;Mobile telephony;69.993.066
+198;taux de couverture;% de ménages - 3G;30/06/2015;Proximus;Mobile telephony;6.494.202
+199;taux de couverture;% de ménages - 4G;30/06/2015;Proximus;Mobile telephony;6.133.413
+200;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Telenet;Fixed telephony;6.494.202
+201;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Telenet;Fixed telephony;10.102.092
+202;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Telenet;Fixed telephony;10.102.092
+203;délai de fourniture ;% faits à la duree convenue;30/06/2015;Telenet;Fixed telephony;0.49067304
+204;taux de pannes;nombre de pannes par ligne;30/06/2015;Telenet;Fixed telephony;0.12988404
+205;délai de réparation;80% les plus rapidement réparées;30/06/2015;Telenet;Fixed telephony;1.443.156
+206;délai de réparation;95% les plus rapidement réparées;30/06/2015;Telenet;Fixed telephony;2.886.312
+207;délai de réparation;% à la durée convenue;30/06/2015;Telenet;Fixed telephony;0.4690257
+208;temps de réponse;temps de réponse moyen;30/06/2015;Telenet;N/A;113.287.746
+209;temps de réponse;% appels en 20 secondes;30/06/2015;Telenet;N/A;15.153.138
+210;plaintes - facturation ;% de factures;30/06/2015;Telenet;N/A;721.578
+211;plaintes - vitesse;% de lignes;30/06/2015;Telenet;Internet access;721.578
+212;taux de couverture;% de ménages - 2G;30/06/2015;Telenet;Mobile telephony;5.411.835
+213;taux de couverture;% de ménages - 3G;30/06/2015;Telenet;Mobile telephony;58.447.818
+214;taux de couverture;% de ménages - 4G;30/06/2015;Telenet;Mobile telephony;5.411.835
+215;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Voo;Fixed telephony;13.709.982
+216;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Voo;Fixed telephony;1.803.945
+217;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Voo;Fixed telephony;2.164.734
+218;délai de fourniture ;% faits à la duree convenue;30/06/2015;Voo;Fixed telephony;0.6133413
+219;taux de pannes;nombre de pannes par ligne;30/06/2015;Voo;Fixed telephony;0.13709982
+220;délai de réparation;80% les plus rapidement réparées;30/06/2015;Voo;Fixed telephony;2.164.734
+221;délai de réparation;95% les plus rapidement réparées;30/06/2015;Voo;Fixed telephony;6.494.202
+222;délai de réparation;% à la durée convenue;30/06/2015;Voo;Fixed telephony;0.6133413
+223;temps de réponse;temps de réponse moyen;30/06/2015;Voo;N/A;1.082.367
+224;temps de réponse;% appels en 20 secondes;30/06/2015;Voo;N/A;17.317.872
+225;plaintes - facturation ;% de factures;30/06/2015;Voo;N/A;6.494.202
+226;plaintes - vitesse;% de lignes;30/06/2015;Voo;Internet access;6.854.991
+227;taux de couverture;% de ménages - 2G;30/06/2015;Voo;Mobile telephony;62.055.708
+228;taux de couverture;% de ménages - 3G;30/06/2015;Voo;Mobile telephony;6.494.202
+229;taux de couverture;% de ménages - 4G;30/06/2015;Voo;Mobile telephony;6.854.991
+230;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Numericable;Fixed telephony;360.789
+231;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Numericable;Fixed telephony;9.380.514
+232;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Numericable;Fixed telephony;11.545.248
+233;délai de fourniture ;% faits à la duree convenue;30/06/2015;Numericable;Fixed telephony;0.56283084
+234;taux de pannes;nombre de pannes par ligne;30/06/2015;Numericable;Fixed telephony;0.05772624
+235;délai de réparation;80% les plus rapidement réparées;30/06/2015;Numericable;Fixed telephony;2.886.312
+236;délai de réparation;95% les plus rapidement réparées;30/06/2015;Numericable;Fixed telephony;7.937.358
+237;délai de réparation;% à la durée convenue;30/06/2015;Numericable;Fixed telephony;0.5411835
+238;temps de réponse;temps de réponse moyen;30/06/2015;Numericable;N/A;2.525.523
+239;temps de réponse;% appels en 20 secondes;30/06/2015;Numericable;N/A;29.584.698
+240;plaintes - facturation ;% de factures;30/06/2015;Numericable;N/A;1.082.367
+241;plaintes - vitesse;% de lignes;30/06/2015;Numericable;Internet access;360.789
+242;taux de couverture;% de ménages - 2G;30/06/2015;Numericable;Mobile telephony;57.004.662
+243;taux de couverture;% de ménages - 3G;30/06/2015;Numericable;Mobile telephony;60.612.552
+244;taux de couverture;% de ménages - 4G;30/06/2015;Numericable;Mobile telephony;3.247.101
+245;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Proximus;Internet access;721.578
+246;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Proximus;Internet access;1.082.367
+247;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Proximus;Internet access;1.443.156
+248;délai de fourniture ;% faits à la duree convenue;30/06/2015;Proximus;Internet access;0.5411835
+249;taux de pannes;nombre de pannes par ligne;30/06/2015;Proximus;Internet access;0.10102092
+250;délai de réparation;80% les plus rapidement réparées;30/06/2015;Proximus;Internet access;2.164.734
+251;délai de réparation;95% les plus rapidement réparées;30/06/2015;Proximus;Internet access;360.789
+252;délai de réparation;% à la durée convenue;30/06/2015;Proximus;Internet access;0.51953616
+253;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Telenet;Internet access;6.494.202
+254;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Telenet;Internet access;10.102.092
+255;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Telenet;Internet access;10.102.092
+256;délai de fourniture ;% faits à la duree convenue;30/06/2015;Telenet;Internet access;0.49067304
+257;taux de pannes;nombre de pannes par ligne;30/06/2015;Telenet;Internet access;0.12988404
+258;délai de réparation;80% les plus rapidement réparées;30/06/2015;Telenet;Internet access;1.443.156
+259;délai de réparation;95% les plus rapidement réparées;30/06/2015;Telenet;Internet access;2.886.312
+260;délai de réparation;% à la durée convenue;30/06/2015;Telenet;Internet access;0.4690257
+261;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Voo;Internet access;13.709.982
+262;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Voo;Internet access;1.803.945
+263;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Voo;Internet access;2.164.734
+264;délai de fourniture ;% faits à la duree convenue;30/06/2015;Voo;Internet access;0.6133413
+265;taux de pannes;nombre de pannes par ligne;30/06/2015;Voo;Internet access;0.13709982
+266;délai de réparation;80% les plus rapidement réparées;30/06/2015;Voo;Internet access;2.164.734
+267;délai de réparation;95% les plus rapidement réparées;30/06/2015;Voo;Internet access;6.494.202
+268;délai de réparation;% à la durée convenue;30/06/2015;Voo;Internet access;0.6133413
+269;délai de fourniture ;50% les plus rapidement fournis;30/06/2015;Numericable;Internet access;360.789
+270;délai de fourniture ;95% les plus rapidement fournis;30/06/2015;Numericable;Internet access;9.380.514
+271;délai de fourniture ;99% les plus rapidement fournis;30/06/2015;Numericable;Internet access;11.545.248
+272;délai de fourniture ;% faits à la duree convenue;30/06/2015;Numericable;Internet access;0.56283084
+273;taux de pannes;nombre de pannes par ligne;30/06/2015;Numericable;Internet access;0.05772624
+274;délai de réparation;80% les plus rapidement réparées;30/06/2015;Numericable;Internet access;2.886.312
+275;délai de réparation;95% les plus rapidement réparées;30/06/2015;Numericable;Internet access;7.937.358
+276;délai de réparation;% à la durée convenue;30/06/2015;Numericable;Internet access;0.5411835
+277;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Proximus;Fixed telephony;53.396.772
+278;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Proximus;Fixed telephony;80.095.158
+279;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Proximus;Fixed telephony;106.793.544
+280;délai de fourniture ;% faits à la duree convenue;30/09/2015;Proximus;Fixed telephony;0.40047579
+281;taux de pannes;nombre de pannes par ligne;30/09/2015;Proximus;Fixed telephony;0.0747554808
+282;délai de réparation;80% les plus rapidement réparées;30/09/2015;Proximus;Fixed telephony;160.190.316
+283;délai de réparation;95% les plus rapidement réparées;30/09/2015;Proximus;Fixed telephony;26.698.386
+284;délai de réparation;% à la durée convenue;30/09/2015;Proximus;Fixed telephony;0.3844567584
+285;temps de réponse;temps de réponse moyen;30/09/2015;Proximus;N/A;106.793.544
+286;temps de réponse;% appels en 20 secondes;30/09/2015;Proximus;N/A;587.364.492
+287;plaintes - facturation ;% de factures;30/09/2015;Proximus;N/A;640.761.264
+288;plaintes - vitesse;% de lignes;30/09/2015;Proximus;Internet access;80.095.158
+289;taux de couverture;% de ménages - 2G;30/09/2015;Proximus;Mobile telephony;5.179.486.884
+290;taux de couverture;% de ménages - 3G;30/09/2015;Proximus;Mobile telephony;480.570.948
+291;taux de couverture;% de ménages - 4G;30/09/2015;Proximus;Mobile telephony;453.872.562
+292;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Telenet;Fixed telephony;480.570.948
+293;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Telenet;Fixed telephony;747.554.808
+294;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Telenet;Fixed telephony;747.554.808
+295;délai de fourniture ;% faits à la duree convenue;30/09/2015;Telenet;Fixed telephony;0.3630980496
+296;taux de pannes;nombre de pannes par ligne;30/09/2015;Telenet;Fixed telephony;0.0961141896
+297;délai de réparation;80% les plus rapidement réparées;30/09/2015;Telenet;Fixed telephony;106.793.544
+298;délai de réparation;95% les plus rapidement réparées;30/09/2015;Telenet;Fixed telephony;213.587.088
+299;délai de réparation;% à la durée convenue;30/09/2015;Telenet;Fixed telephony;0.347079018
+300;temps de réponse;temps de réponse moyen;30/09/2015;Telenet;N/A;8.383.293.204
+301;temps de réponse;% appels en 20 secondes;30/09/2015;Telenet;N/A;1.121.332.212
+302;plaintes - facturation ;% de factures;30/09/2015;Telenet;N/A;53.396.772
+303;plaintes - vitesse;% de lignes;30/09/2015;Telenet;Internet access;53.396.772
+304;taux de couverture;% de ménages - 2G;30/09/2015;Telenet;Mobile telephony;40.047.579
+305;taux de couverture;% de ménages - 3G;30/09/2015;Telenet;Mobile telephony;4.325.138.532
+306;taux de couverture;% de ménages - 4G;30/09/2015;Telenet;Mobile telephony;40.047.579
+307;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Voo;Fixed telephony;1.014.538.668
+308;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Voo;Fixed telephony;13.349.193
+309;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Voo;Fixed telephony;160.190.316
+310;délai de fourniture ;% faits à la duree convenue;30/09/2015;Voo;Fixed telephony;0.453872562
+311;taux de pannes;nombre de pannes par ligne;30/09/2015;Voo;Fixed telephony;0.1014538668
+312;délai de réparation;80% les plus rapidement réparées;30/09/2015;Voo;Fixed telephony;160.190.316
+313;délai de réparation;95% les plus rapidement réparées;30/09/2015;Voo;Fixed telephony;480.570.948
+314;délai de réparation;% à la durée convenue;30/09/2015;Voo;Fixed telephony;0.453872562
+315;temps de réponse;temps de réponse moyen;30/09/2015;Voo;N/A;80.095.158
+316;temps de réponse;% appels en 20 secondes;30/09/2015;Voo;N/A;1.281.522.528
+317;plaintes - facturation ;% de factures;30/09/2015;Voo;N/A;480.570.948
+318;plaintes - vitesse;% de lignes;30/09/2015;Voo;Internet access;507.269.334
+319;taux de couverture;% de ménages - 2G;30/09/2015;Voo;Mobile telephony;4.592.122.392
+320;taux de couverture;% de ménages - 3G;30/09/2015;Voo;Mobile telephony;480.570.948
+321;taux de couverture;% de ménages - 4G;30/09/2015;Voo;Mobile telephony;507.269.334
+322;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Numericable;Fixed telephony;26.698.386
+323;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Numericable;Fixed telephony;694.158.036
+324;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Numericable;Fixed telephony;854.348.352
+325;délai de fourniture ;% faits à la duree convenue;30/09/2015;Numericable;Fixed telephony;0.4164948216
+326;taux de pannes;nombre de pannes par ligne;30/09/2015;Numericable;Fixed telephony;0.0427174176
+327;délai de réparation;80% les plus rapidement réparées;30/09/2015;Numericable;Fixed telephony;213.587.088
+328;délai de réparation;95% les plus rapidement réparées;30/09/2015;Numericable;Fixed telephony;587.364.492
+329;délai de réparation;% à la durée convenue;30/09/2015;Numericable;Fixed telephony;0.40047579
+330;temps de réponse;temps de réponse moyen;30/09/2015;Numericable;N/A;186.888.702
+331;temps de réponse;% appels en 20 secondes;30/09/2015;Numericable;N/A;2.189.267.652
+332;plaintes - facturation ;% de factures;30/09/2015;Numericable;N/A;80.095.158
+333;plaintes - vitesse;% de lignes;30/09/2015;Numericable;Internet access;26.698.386
+334;taux de couverture;% de ménages - 2G;30/09/2015;Numericable;Mobile telephony;4.218.344.988
+335;taux de couverture;% de ménages - 3G;30/09/2015;Numericable;Mobile telephony;4.485.328.848
+336;taux de couverture;% de ménages - 4G;30/09/2015;Numericable;Mobile telephony;240.285.474
+337;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Proximus;Internet access;53.396.772
+338;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Proximus;Internet access;80.095.158
+339;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Proximus;Internet access;106.793.544
+340;délai de fourniture ;% faits à la duree convenue;30/09/2015;Proximus;Internet access;0.40047579
+341;taux de pannes;nombre de pannes par ligne;30/09/2015;Proximus;Internet access;0.0747554808
+342;délai de réparation;80% les plus rapidement réparées;30/09/2015;Proximus;Internet access;160.190.316
+343;délai de réparation;95% les plus rapidement réparées;30/09/2015;Proximus;Internet access;26.698.386
+344;délai de réparation;% à la durée convenue;30/09/2015;Proximus;Internet access;0.3844567584
+345;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Telenet;Internet access;480.570.948
+346;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Telenet;Internet access;747.554.808
+347;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Telenet;Internet access;747.554.808
+348;délai de fourniture ;% faits à la duree convenue;30/09/2015;Telenet;Internet access;0.3630980496
+349;taux de pannes;nombre de pannes par ligne;30/09/2015;Telenet;Internet access;0.0961141896
+350;délai de réparation;80% les plus rapidement réparées;30/09/2015;Telenet;Internet access;106.793.544
+351;délai de réparation;95% les plus rapidement réparées;30/09/2015;Telenet;Internet access;213.587.088
+352;délai de réparation;% à la durée convenue;30/09/2015;Telenet;Internet access;0.347079018
+353;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Voo;Internet access;1.014.538.668
+354;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Voo;Internet access;13.349.193
+355;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Voo;Internet access;160.190.316
+356;délai de fourniture ;% faits à la duree convenue;30/09/2015;Voo;Internet access;0.453872562
+357;taux de pannes;nombre de pannes par ligne;30/09/2015;Voo;Internet access;0.1014538668
+358;délai de réparation;80% les plus rapidement réparées;30/09/2015;Voo;Internet access;160.190.316
+359;délai de réparation;95% les plus rapidement réparées;30/09/2015;Voo;Internet access;480.570.948
+360;délai de réparation;% à la durée convenue;30/09/2015;Voo;Internet access;0.453872562
+361;délai de fourniture ;50% les plus rapidement fournis;30/09/2015;Numericable;Internet access;26.698.386
+362;délai de fourniture ;95% les plus rapidement fournis;30/09/2015;Numericable;Internet access;694.158.036
+363;délai de fourniture ;99% les plus rapidement fournis;30/09/2015;Numericable;Internet access;854.348.352
+364;délai de fourniture ;% faits à la duree convenue;30/09/2015;Numericable;Internet access;0.4164948216
+365;taux de pannes;nombre de pannes par ligne;30/09/2015;Numericable;Internet access;0.0427174176
+366;délai de réparation;80% les plus rapidement réparées;30/09/2015;Numericable;Internet access;213.587.088
+367;délai de réparation;95% les plus rapidement réparées;30/09/2015;Numericable;Internet access;587.364.492
+368;délai de réparation;% à la durée convenue;30/09/2015;Numericable;Internet access;0.40047579
+369;plaintes - vitesse;% de lignes;31/12/2014;Proximus;Mobile telephony;15
+370;plaintes - vitesse;% de lignes;31/12/2014;Telenet;Mobile telephony;10
+371;plaintes - vitesse;% de lignes;31/12/2014;Voo;Mobile telephony;95
+372;plaintes - vitesse;% de lignes;31/12/2014;Numericable;Mobile telephony;50
+373;plaintes - vitesse;% de lignes;30/03/2015;Proximus;Mobile telephony;12.87
+374;plaintes - vitesse;% de lignes;30/03/2015;Telenet;Mobile telephony;8.58
+375;plaintes - vitesse;% de lignes;30/03/2015;Voo;Mobile telephony;81.51
+376;plaintes - vitesse;% de lignes;30/03/2015;Numericable;Mobile telephony;42.9
+377;plaintes - vitesse;% de lignes;30/06/2015;Proximus;Mobile telephony;1.082.367
+378;plaintes - vitesse;% de lignes;30/06/2015;Telenet;Mobile telephony;721.578
+379;plaintes - vitesse;% de lignes;30/06/2015;Voo;Mobile telephony;6.854.991
+380;plaintes - vitesse;% de lignes;30/06/2015;Numericable;Mobile telephony;360.789
+381;plaintes - vitesse;% de lignes;30/09/2015;Proximus;Mobile telephony;80.095.158
+382;plaintes - vitesse;% de lignes;30/09/2015;Telenet;Mobile telephony;53.396.772
+383;plaintes - vitesse;% de lignes;30/09/2015;Voo;Mobile telephony;507.269.334
+384;plaintes - vitesse;% de lignes;30/09/2015;Numericable;Mobile telephony;26.698.386
